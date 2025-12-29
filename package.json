@@ -1,0 +1,25 @@
+{
+  "name": "nodejstutorial-and-projectcourse",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/WinkSmile114/NodeJSTutorial-and-ProjectCourse#readme",
+  "bugs": {
+    "url": "https://github.com/WinkSmile114/NodeJSTutorial-and-ProjectCourse/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WinkSmile114/NodeJSTutorial-and-ProjectCourse.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "lodash": "^4.17.21"
+  }
+}
